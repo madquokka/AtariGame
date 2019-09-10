@@ -1,0 +1,5 @@
+Brain name,Time to update policy,Time since start of training,Time for last experience collection,Number of experiences used for training,Mean return
+AtariLearn,0.583,43.864,77.887,10285,-0.704
+AtariLearn,0.564,84.958,74.391,10242,-0.350
+AtariLearn,0.563,125.516,73.389,10242,-0.212
+AtariLearn,0.553,166.808,74.805,10299,-0.512

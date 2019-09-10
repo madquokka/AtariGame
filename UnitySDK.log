@@ -1,0 +1,94 @@
+8/30/2019 3:17:43 PM
+ 
+8/30/2019 3:38:50 PM
+ 
+8/30/2019 3:56:53 PM
+ 
+8/30/2019 3:59:23 PM
+ 
+8/30/2019 4:00:33 PM
+ 
+8/30/2019 4:04:14 PM
+ 
+8/30/2019 4:11:11 PM
+ 
+Exception
+KeyNotFoundException: The given key was not present in the dictionary.
+System.Collections.Generic.Dictionary`2[TKey,TValue].get_Item (TKey key) (at <7d97106330684add86d080ecf65bfe69>:0)
+MLAgents.Batcher.SendBrainInfo (System.String brainKey, System.Collections.Generic.Dictionary`2[TKey,TValue] agentInfo) (at Assets/ML-Agents/Scripts/Batcher.cs:187)
+MLAgents.Brain.BrainDecideAction () (at Assets/ML-Agents/Scripts/Brain.cs:98)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:628)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+ArgumentException: An item with the same key has already been added. Key: Player (PlayerMove)
+System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) (at <7d97106330684add86d080ecf65bfe69>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) (at <7d97106330684add86d080ecf65bfe69>:0)
+MLAgents.Brain.SendState (MLAgents.Agent agent, MLAgents.AgentInfo info) (at Assets/ML-Agents/Scripts/Brain.cs:56)
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:655)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+ArgumentException: An item with the same key has already been added. Key: Player (PlayerMove)
+System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) (at <7d97106330684add86d080ecf65bfe69>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) (at <7d97106330684add86d080ecf65bfe69>:0)
+MLAgents.Brain.SendState (MLAgents.Agent agent, MLAgents.AgentInfo info) (at Assets/ML-Agents/Scripts/Brain.cs:56)
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:655)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+ArgumentException: An item with the same key has already been added. Key: Player (PlayerMove)
+System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) (at <7d97106330684add86d080ecf65bfe69>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) (at <7d97106330684add86d080ecf65bfe69>:0)
+MLAgents.Brain.SendState (MLAgents.Agent agent, MLAgents.AgentInfo info) (at Assets/ML-Agents/Scripts/Brain.cs:56)
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:655)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+ArgumentException: An item with the same key has already been added. Key: Player (PlayerMove)
+System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) (at <7d97106330684add86d080ecf65bfe69>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) (at <7d97106330684add86d080ecf65bfe69>:0)
+MLAgents.Brain.SendState (MLAgents.Agent agent, MLAgents.AgentInfo info) (at Assets/ML-Agents/Scripts/Brain.cs:56)
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:655)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+ArgumentException: An item with the same key has already been added. Key: Player (PlayerMove)
+System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) (at <7d97106330684add86d080ecf65bfe69>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) (at <7d97106330684add86d080ecf65bfe69>:0)
+MLAgents.Brain.SendState (MLAgents.Agent agent, MLAgents.AgentInfo info) (at Assets/ML-Agents/Scripts/Brain.cs:56)
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:655)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+ArgumentException: An item with the same key has already been added. Key: Player (PlayerMove)
+System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) (at <7d97106330684add86d080ecf65bfe69>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) (at <7d97106330684add86d080ecf65bfe69>:0)
+MLAgents.Brain.SendState (MLAgents.Agent agent, MLAgents.AgentInfo info) (at Assets/ML-Agents/Scripts/Brain.cs:56)
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:655)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+Exception
+ArgumentException: An item with the same key has already been added. Key: Player (PlayerMove)
+System.Collections.Generic.Dictionary`2[TKey,TValue].TryInsert (TKey key, TValue value, System.Collections.Generic.InsertionBehavior behavior) (at <7d97106330684add86d080ecf65bfe69>:0)
+System.Collections.Generic.Dictionary`2[TKey,TValue].Add (TKey key, TValue value) (at <7d97106330684add86d080ecf65bfe69>:0)
+MLAgents.Brain.SendState (MLAgents.Agent agent, MLAgents.AgentInfo info) (at Assets/ML-Agents/Scripts/Brain.cs:56)
+MLAgents.Agent.SendInfoToBrain () (at Assets/ML-Agents/Scripts/Agent.cs:655)
+MLAgents.Agent.SendInfo () (at Assets/ML-Agents/Scripts/Agent.cs:1048)
+MLAgents.Academy.EnvironmentStep () (at Assets/ML-Agents/Scripts/Academy.cs:626)
+MLAgents.Academy.FixedUpdate () (at Assets/ML-Agents/Scripts/Academy.cs:655)
+
+8/30/2019 4:24:12 PM
+ 
